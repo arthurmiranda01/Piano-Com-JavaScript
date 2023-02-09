@@ -1,2 +1,2 @@
-# Bateria-Com-JavaScript
- Projeto tocar bateria com JavaScript
+# Piano-Com-JavaScript
+ Projeto tocar piano com JavaScript
